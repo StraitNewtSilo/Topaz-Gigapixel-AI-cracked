@@ -17,4 +17,4 @@ Topaz Gigapixel AI Edition. AI-driven image upscaling up to 6x with detail recov
 
 
 TAGS
-topaz-gigapixel-ai, 6x-upscaling, ai-image-upscaler, face-enhance-ai, image-upscaling-ai                            
+topaz-gigapixel-ai, 6x-upscaling, ai-image-upscaler, face-enhance-ai, image-upscaling-ai                             
